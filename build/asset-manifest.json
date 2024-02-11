@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Erasable-Mak/PathFinding-Visualizer/static/css/main.3d8e9ffd.css",
+    "main.js": "/Erasable-Mak/PathFinding-Visualizer/static/js/main.67275f37.js",
+    "index.html": "/Erasable-Mak/PathFinding-Visualizer/index.html",
+    "main.3d8e9ffd.css.map": "/Erasable-Mak/PathFinding-Visualizer/static/css/main.3d8e9ffd.css.map",
+    "main.67275f37.js.map": "/Erasable-Mak/PathFinding-Visualizer/static/js/main.67275f37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d8e9ffd.css",
+    "static/js/main.67275f37.js"
+  ]
+}
